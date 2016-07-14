@@ -18,8 +18,8 @@ The site has 3 pages:
 
 The site is suitably marked up with headings, subheadings, and
 internal (anchor) links to relevant sections. Images should be embedded
-throughout (for diagrams etc.). Use structural elements (<header>,
-<section>,<footer>). Have a consistent navigation across all pages.
+throughout (for diagrams etc). Use structural elements (<header>,<section>,<footer>). 
+Have a consistent navigation across all pages.
 Includes my name and student number
 Applied CSS styling to make it more readable (typography, column width).
 In the footer, repeat your name, student number and a link to your email
